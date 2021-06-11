@@ -1,0 +1,20 @@
+{
+    "name": "levkopo/apikit",
+    "description": "Kit for api backend",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "levkopo",
+            "email": "levkopoag@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "levkopo\\ApiKit": "src/levkopo/ApiKit"
+        }
+    }
+}
