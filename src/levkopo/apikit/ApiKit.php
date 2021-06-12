@@ -1,6 +1,6 @@
 <?php
 
-namespace levkopo\ApiKit;
+namespace levkopo\apikit;
 
 use JetBrains\PhpStorm\NoReturn;
 
