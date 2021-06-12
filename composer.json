@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-0": {
-            "levkopo\\apikit\\": "src/levkopo/apikit"
+            "levkopo\\apikit\\": "src/levkopo/apikit/"
         }
     }
 }
