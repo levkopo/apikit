@@ -1,6 +1,11 @@
 # apikit
 Kit for api servers
 
+## Installation
+```
+composer require levkopo/apikit
+```
+
 ## Example
 ```php
 use levkopo\apikit\ApiKit;
