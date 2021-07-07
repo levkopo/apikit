@@ -1,6 +1,8 @@
 # apikit
 Kit for api servers
 
+# **WARNING! Repository migrated to https://github.com/PPEco/dbpp**
+
 ## Installation
 ```
 composer require levkopo/apikit
